@@ -1,0 +1,22 @@
+#key	value
+name	Semar Publishing
+byline	Semar.org
+year	1986
+
+|labels and messages
+iconName	Semar
+siteMenuName	Semar Home
+description	[describe the website]
+notes	notes/status
+welcome-message	This is Semar.org
+footer-message	Semar
+
+|img and styles
+safeName	semar	//NOTE: used in getLogoOr
+mediakit	?palette=default
+|fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
+
+|technical
+sections	
+local-url	http://localhost/spanda/sites/semar/
+live-url	https://spanda.amadeusweb.in/sites/semar/

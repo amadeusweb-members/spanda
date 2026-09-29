@@ -1,0 +1,9 @@
+|is-table
+||cloneAt: spanda/
+||renderWith: repos.php
+||Description: Seeding an Internet of Missions
+||Primary Keyword: DAWN
+||Keywords: Internet of Missions, Dynamic AmadeusWeb Network
+#at	from
+	https://github.com/amadeusweb-members/spanda.git
+_cdn	https://github.com/amadeusweb-members/spanda-cdn.git

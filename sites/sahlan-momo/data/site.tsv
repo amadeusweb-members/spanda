@@ -1,0 +1,22 @@
+#key	value
+name	Sahlan Momo Foundation
+byline	An SMF Site
+year	2019
+
+|labels and messages
+iconName	Sahlan Momo
+siteMenuName	SMF Home
+description	[describe the website]
+notes	notes/status
+welcome-message	This is an SMF Site
+footer-message	Sahlan Momo Foundation
+
+|img and styles
+safeName	sahlan-momo	//NOTE: used in getLogoOr
+mediakit	?palette=default
+|fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
+
+|technical
+sections	
+local-url	http://localhost/spanda/sites/sahlan-momo/
+live-url	https://spanda.amadeusweb.in/sites/sahlan-momo/

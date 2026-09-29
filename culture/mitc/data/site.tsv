@@ -1,0 +1,22 @@
+#key	value
+name	MitC [Spanda]
+byline	A Spanda Site
+year	2020
+
+|labels and messages
+iconName	Meetings in the Cave
+siteMenuName	MitC Home
+description	[describe the website]
+notes	notes/status
+welcome-message	This is a Spanda Site
+footer-message	Spanda
+
+|img and styles
+safeName	spanda-mitc	//NOTE: used in getLogoOr
+mediakit	?palette=default
+|fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
+
+|technical
+sections	
+local-url	http://localhost/spanda/culture/mitc/
+live-url	https://spanda.amadeusweb.in/culture/mitc/

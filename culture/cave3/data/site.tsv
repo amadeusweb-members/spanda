@@ -3,13 +3,10 @@ name	Cave 3.0
 byline	A Multidisciplinary Opera
 safeName	spanda-cave3
 footer-message	[EDIT: ./data/site.tsv]
+iconName	Cave 3.0
 siteMenuName	About Us
 scaffold	search, sitemap
 sections	project, educational-and-media, notebook: notebook+setdesign, digitaloperahouse, newsroom
-|locals
-local-url	http://localhost/networks/sahlan-momo/live/cave3/
-local-preview-url	http://localhost/networks/sahlan-momo/cave3/
-|lives
-live-url	https://sahlan-momo.amadeusweb.site/cave3/
-live-preview-url	https://preview-sahlan-momo.amadeusweb.site/cave3/
+local-url	http://localhost/spanda/culture/cave3/
+live-url	http://spanda.amadeusweb.in/culture/cave3/
 year	2017
